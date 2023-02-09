@@ -29,7 +29,7 @@ global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By SUMAN BOT" //ur sticker watermark packname
-global.author = "sumandeka" //ur sticker watermark author
+global.author = "sumandekaa" //ur sticker watermark author
 global.wm = "SUMAN BOT" //ur watermark
 
 // Other
