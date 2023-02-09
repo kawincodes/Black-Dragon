@@ -15,7 +15,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['9387144780'] //ur owner number
-global.ownername = "sumandekaa" //ur owner name
+global.ownername = "sumandeka" //ur owner name
 global.ytname = "YT: Suman deka" //ur yt chanel name
 global.socialm = "GitHub:sumandeka" //ur github or insta name
 global.location = "India, assam,guwahati" //ur location
@@ -29,7 +29,7 @@ global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By SUMAN BOT" //ur sticker watermark packname
-global.author = "sumandekaa" //ur sticker watermark author
+global.author = "sumandeka" //ur sticker watermark author
 global.wm = "SUMAN BOT" //ur watermark
 
 // Other
