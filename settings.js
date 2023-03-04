@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['9387144780'] //ur owner number
-global.ownername = "sumandeka" //ur owner name
-global.ytname = "YT: Suman deka" //ur yt chanel name
-global.socialm = "GitHub:iamsumandeka" //ur github or insta name
-global.location = "India, assam,guwahati" //ur location
+global.owner = ['918260496931'] //ur owner number
+global.ownername = "Ayush" //ur owner name
+global.ytname = "YT: Ayush op" //ur yt chanel name
+global.socialm = "GitHub:ayushop_128" //ur github or insta name
+global.location = "India, odisa, cuttack" //ur location
 
 //bot bomdy 
-global.ownernomer = "9387144780" //ur number
-global.premium = ['9387144780'] //ur premium number
-global.botname = 'SUMAN BOT' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
+global.ownernomer = "918260496931" //ur number
+global.premium = ['918260496931'] //ur premium number
+global.botname = 'Ayush bot' //ur bot name
+global.linkz = "no group" //your theme url which will be displayed on whatsapp
+global.websitex = "wa.me/918602306506" //ur website to be displayed
+global.botscript = 'https://github.com/ayushdeveloper001/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By SUMAN BOT" //ur sticker watermark packname
-global.author = "sumandeka" //ur sticker watermark author
-global.wm = "SUMAN BOT" //ur watermark
+global.packname = "Mai toh lagda hu" //ur sticker watermark packname
+global.author = "Kya bolu bhai" //ur sticker watermark author
+global.wm = "Ayush" //ur watermark
 
 // Other
 global.sessionName = 'session'
