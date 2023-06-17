@@ -14,27 +14,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918260496931'] //ur owner number
-global.ownername = "Ayush" //ur owner name
-global.ytname = "YT: Ayush op" //ur yt chanel name
-global.socialm = "GitHub:ayushop_128" //ur github or insta name
-global.location = "India, odisa, cuttack" //ur location
+global.owner = ['919640440407'] //ur owner number
+global.ownername = "Kawinraju" //ur owner name
+global.ytname = "YT: kawinraju" //ur yt chanel name
+global.socialm = "GitHub:kawincodes" //ur github or insta name
+global.location = "India, Tamilnadu, oddanchatram , 624614" //ur location
 
 //bot bomdy 
-global.ownernomer = "918260496931" //ur number
-global.premium = ['918260496931'] //ur premium number
-global.botname = 'Ayush bot' //ur bot name
-global.linkz = "no group" //your theme url which will be displayed on whatsapp
-global.websitex = "wa.me/918602306506" //ur website to be displayed
-global.botscript = 'https://github.com/ayushdeveloper001/Black-Dragon' //script link
+global.ownernomer = "919640440407" //ur number
+global.premium = ['919640440407'] //ur premium number
+global.botname = 'MARK_K' //ur bot name
+global.linkz = "https://linktr.ee/kawinraju" //your theme url which will be displayed on whatsapp
+global.websitex = "https://linktr.ee/kawinraju" //ur website to be displayed
+global.botscript = 'https://bit.ly/kawinsourcecode' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Mai toh lagda hu" //ur sticker watermark packname
-global.author = "Kya bolu bhai" //ur sticker watermark author
-global.wm = "Ayush" //ur watermark
+global.packname = "MARK_K_AI" //ur sticker watermark packname
+global.author = "Kawin Raju" //ur sticker watermark author
+global.wm = "kawinraju" //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['.']
+global.prefa = ['!']
 global.sp = ''
 
 //messages
@@ -48,7 +48,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
     wait: 'Please with...',
-    wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
+    wal: 'admin',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
